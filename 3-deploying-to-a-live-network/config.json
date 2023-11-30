@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "deployAliases": {
+    "local-net": {
+      "url": "http://localhost:8080/graphql",
+      "keyPath": "keys/local-net.json",
+      "feepayerKeyPath": "/home/filip/.cache/zkapp-cli/keys/tutorial-3.json",
+      "feepayerAlias": "tutorial-3",
+      "fee": "0.1",
+      "smartContract": "Square"
+    }
+  }
+}
